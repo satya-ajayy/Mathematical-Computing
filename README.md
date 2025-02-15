@@ -6,7 +6,7 @@ This repository contains Python solutions to commonly asked mathematics problems
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ajay-verse/Mathematical-Computing.git
+   git clone https://github.com/satya-ajayy/Mathematical-Computing.git
    cd Mathematical-computing
    ```
 2. Run Pyhton File:
